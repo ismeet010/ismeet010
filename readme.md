@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ismeet-kour-chhabda/" target="_blank"> Ismeet Kour Chhabda</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Web+Developer;Coder;Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=6cc9cc&center=true&vCenter=true&width=900&height=110&lines=Web+Developer;Coder;Contributor)](https://git.io/typing-svg)
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ismeet010&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
    <div align="center">
